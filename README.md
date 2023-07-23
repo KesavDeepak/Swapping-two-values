@@ -30,7 +30,7 @@ num2 = temp
 print('Swapped values are:',num1,num2)
 ```
 ## OUTPUT
-![output](swapping.png)
+![output]("swapping.png")
 
 
 
