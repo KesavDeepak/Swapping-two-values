@@ -18,17 +18,24 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-fghrytsgg
-dgfh
-ghh
-
+'''python
+#Program to swap two values.
+#Developed by: KESAV DEEPAK SRIDHARAN
+#RegisterNumber: 23002011
+num1 = eval(input())
+num2 = eval(input())
+temp = num1
+num1 = num2
+num2 = temp
+print('Swapped values are:',num1,num2)
+'''
 ## OUTPUT
-[output] (out.png)
+![output](out.png)
 
 
 
 ## RESULT:
-Thus the swapping of two values are successfully executed
+Thus the swapping of two values are successfully executed.
 
 
 
